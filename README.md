@@ -1,3 +1,4 @@
 # projeto-bloco-2
 Projeto da Mentorama Front-end
- Teste 
+Hospedagem do Vercel
+https://projeto-bloco-2-two.vercel.app/ 
